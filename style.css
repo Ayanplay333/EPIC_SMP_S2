@@ -4,16 +4,10 @@ body{
     text-align:center;
     background-image:linear-gradient(white,green,lightblue,Orange)
 }
-}
-img{
-    border: radius10px;
-Head{
-    background-image:linear-gradient(white,green,lightblue,Orange)
-}
-. {
-    margin:0px;
-    padding:0px;
-    box-sizing:border-box;
 
+img{
+    border: radius10px;}
+Head{
+    background-image: white,green,lightblue,Orange;
 }
     
